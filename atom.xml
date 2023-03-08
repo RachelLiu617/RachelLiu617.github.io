@@ -6,7 +6,7 @@
   <link href="http://rachelliu617.github.io/atom.xml" rel="self"/>
   
   <link href="http://rachelliu617.github.io/"/>
-  <updated>2023-03-08T01:35:55.192Z</updated>
+  <updated>2023-03-08T09:18:22.212Z</updated>
   <id>http://rachelliu617.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new article</title>
+    <link href="http://rachelliu617.github.io/2023/03/08/new-article/"/>
+    <id>http://rachelliu617.github.io/2023/03/08/new-article/</id>
+    <published>2023-03-08T09:18:22.000Z</published>
+    <updated>2023-03-08T09:18:22.212Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new oarticle</title>
+    <link href="http://rachelliu617.github.io/2023/03/08/new-oarticle/"/>
+    <id>http://rachelliu617.github.io/2023/03/08/new-oarticle/</id>
+    <published>2023-03-08T09:18:12.000Z</published>
+    <updated>2023-03-08T09:18:12.441Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
